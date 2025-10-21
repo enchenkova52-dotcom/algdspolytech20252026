@@ -1,0 +1,13 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/algdspolytech20252026/FileContentIndex
+/.vs/algdspolytech20252026/v17/ipch/AutoPCH
+/.vs/algdspolytech20252026/v17/.wsuo
+*.db
+*.json
+*.sqlite
+*.db-shm
+/.vs/algdspolytech20252026/v17/Browse.VC.db-wal
+/.vs/algdspolytech20252026/v17/Browse.VC.opendb
