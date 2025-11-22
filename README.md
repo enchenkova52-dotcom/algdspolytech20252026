@@ -1,5 +1,7 @@
 Номер лабораторной - D
-<img width="818" height="839" alt="image" src="https://github.com/user-attachments/assets/654bffd4-cc1f-463c-a097-9eb1f0c61428" />
+<img width="736" height="805" alt="image" src="https://github.com/user-attachments/assets/5d50f71e-f5af-4f07-bf00-f6fa11eb9eaf" />
+
+
 
 
 
